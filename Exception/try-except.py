@@ -1,5 +1,6 @@
 try:
     num = int(input("Enter Amout: "))
+    print("....")
     print(10/num)
 except ZeroDivisionError:
     print("Cannot divivde by zero")
