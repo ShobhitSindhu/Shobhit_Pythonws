@@ -234,3 +234,4 @@ for student in t1.students:
         print(f"Fail : {student.get_name()}")
 
 print(f"Total students who got distinction: {cnt1}")
+
